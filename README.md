@@ -13,5 +13,7 @@
 ![image](https://user-images.githubusercontent.com/112066824/193746834-a6571dc4-37ce-412c-a269-ba8f8f4b4f89.png)
 ## Experiment 2 output
 ![image](https://user-images.githubusercontent.com/112066824/193778164-23901fdb-708d-45b9-a332-00be0a804d2b.png)
+## Experiment 2 output
+![image](https://user-images.githubusercontent.com/112066824/193778744-ec71ee2f-4d14-4d3d-a499-6012b4ae7fca.png)
 
 
