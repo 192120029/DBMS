@@ -46,6 +46,8 @@
 ![image](https://user-images.githubusercontent.com/112066824/194075950-70d8b051-d3b9-443a-b4f8-f6c9724cad08.png)
 ## Experiment 7 output
 ![image](https://user-images.githubusercontent.com/112066824/194076414-523cd802-de69-433d-ac73-5e58acbf83a6.png)
+![image](https://user-images.githubusercontent.com/112066824/194076684-24e22567-4565-4b6d-8d50-7548bbbc81f7.png)
+
 
 
 
