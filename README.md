@@ -90,6 +90,9 @@
 ## Experiment 22 output
 ![image](https://user-images.githubusercontent.com/112066824/194507570-ba49baf5-d3f5-46f9-90f4-189e5d33ca18.png)
 ![image](https://user-images.githubusercontent.com/112066824/194507863-4027871c-bedc-452d-923e-264cf982a7ba.png)
+## Experiment 23 output
+![image](https://user-images.githubusercontent.com/112066824/194508397-669ec9d5-eabd-4b1e-99b5-212ab1c31934.png)
+
 
 
 
