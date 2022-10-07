@@ -86,6 +86,7 @@
 ## Experiment 21 output
 ![image](https://user-images.githubusercontent.com/112066824/194505244-ffd1236d-5232-4c7c-8eb0-a295d3db24ba.png)
 ![image](https://user-images.githubusercontent.com/112066824/194505419-0149e317-a286-45f2-86bd-73cdaf9ac7bf.png)
+![image](https://user-images.githubusercontent.com/112066824/194507288-5c8798fc-88c9-4f53-8910-2f01a845fd74.png)
 
 
 
