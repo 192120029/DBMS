@@ -83,6 +83,9 @@
 ![image](https://user-images.githubusercontent.com/112066824/194503608-29404432-452b-4ebf-bd9e-6beb61ef3bc4.png)
 ## Experiment 20 output
 ![image](https://user-images.githubusercontent.com/112066824/194504543-c9d8dc73-e2f1-40c9-9edb-ac9cde767cac.png)
+## Experiment 21 output
+![image](https://user-images.githubusercontent.com/112066824/194505244-ffd1236d-5232-4c7c-8eb0-a295d3db24ba.png)
+
 
 
 
